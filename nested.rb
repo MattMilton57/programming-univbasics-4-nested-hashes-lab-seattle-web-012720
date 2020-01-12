@@ -132,6 +132,6 @@ def adding_to_dennis
         }
      }
      newinf="Assembly"
-programmer_hash[:dennis_ritchie][:languages]=> newinf
+programmer_hash[:dennis_ritchie][:languages]= newinf
 programmer_hash
 end
